@@ -78,3 +78,9 @@ body {
 .item8 {
   animation-delay: calc(10s / 5 * (5 - 8) * -1);
 }
+
+.rowdies {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
