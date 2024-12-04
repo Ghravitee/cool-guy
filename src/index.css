@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --Primary-Color: hsl(20, 89%, 68%);
+}
+
+body {
+  background-color: var(--Primary-Color);
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
