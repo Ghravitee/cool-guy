@@ -78,7 +78,7 @@ const Hero = () => {
         </a>
       </div>
 
-      <div className="text-white mx-auto text-[1.5rem] lg:text-[2rem] lg:max-w-[40rem] max-w-[25rem]">
+      <div className="text-white mx-auto text-[1.5rem] lg:text-[2rem] lg:max-w-[80rem] max-w-[25rem]">
         <p>
           Not a pumpfun player first time aped on pumpfun dyor $COOLGUY is
           inspired on The original Matt Furie Character Coolguy Quackshit, he is
